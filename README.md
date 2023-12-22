@@ -1,4 +1,4 @@
-# Text Classification – Spam vs. Ham
+# Text Classification – Identifying Spam From Legitimate Emails 
 ## Text Processing
 In order to classify emails that are legitimate versus emails that are spam, the 
 first step was to create a corpus that contained examples of both these types of 
